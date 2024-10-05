@@ -90,7 +90,3 @@ We welcome contributions to this project. Fork the repository, create a feature 
 ## License
 
 This project is licensed under the MIT License, ensuring that it is open-source and freely available to the developer community.
-
----
-
-This README provides a detailed overview of the decentralized Wikipedia-like platform, its technologies, and how to get started with development and testing.
