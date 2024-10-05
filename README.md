@@ -18,6 +18,10 @@ This project is a decentralized platform built on the Ethereum blockchain, desig
 10. [License](#license)
 
 ---
+
+[Deployed on Vercel](https://dewik.vercel.app/)
+[Subgraph endpoint](https://api.studio.thegraph.com/query/90743/dewik-v3/version/latest)
+
 ![image](https://github.com/user-attachments/assets/67bef177-8250-42ee-81ca-5caf70f9d2a3)
 
 ## Overview
